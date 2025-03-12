@@ -1,5 +1,5 @@
 # Hyperspectral_Imaging
-
+https://colab.research.google.com/drive/1Og-qkkWcSCUQFk3pKPmqIRKweh5PqcIX?usp=sharing
 
 ## Overview
 This repository contains a machine learning solution to predict Deoxynivalenol (DON) concentration in corn samples using hyperspectral imaging data. The solution uses PCA for dimensionality reduction and a Random Forest Regressor, implemented in Google Colab.
